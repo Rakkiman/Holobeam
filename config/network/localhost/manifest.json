@@ -1,9 +1,9 @@
 {
     "year": "1995",
-    "serverAddress": "localhost",
-    "serverName": "Node G56 Intranet",
+    "serverAddress": "HBAhost",
+    "serverName": "MT HB25 Intranet",
     "iconName": "Moon-icon.png",
-    "terminalID": "G56",
+    "terminalID": "Dee",
     "defaultUser": {
         "userId": "user",
         "password": "",
