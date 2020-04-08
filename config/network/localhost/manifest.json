@@ -1,0 +1,15 @@
+{
+    "year": "1995",
+    "serverAddress": "localhost",
+    "serverName": "Node G56 Intranet",
+    "iconName": "Moon-icon.png",
+    "terminalID": "G56",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    },
+    "randomSeed": true,
+    
+    "latestKernel": true
+}

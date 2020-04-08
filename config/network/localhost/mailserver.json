@@ -1,0 +1,26 @@
+[
+    {
+        "from": "Traveller",
+        "to": ["8A73B5"],
+        "title": "Do not Open",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "from": "Software",
+        "to": ["8A73B5", "a"],
+        "title": "undefined",
+        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+    },
+    {
+        "from": "Josephus A. Miller",
+        "to": ["8A73B5", "a"],
+        "title": "Contrato n22",
+        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+    },
+    {
+        "from": "Adam",
+        "to": ["Grant"],
+        "title": "Night at the Opera",
+        "body": "There is an ongoing breach. You're signed to taskforce G as Grant. Replacing one casualty: Gold. Objectives: Investigate Gold's death, examine and eradicate the Source. The killer is of unnatural origin, likely caused by experiments of late A. Hunt and the Heavens Society. Taskforce G has tracked them since Ridgeway murders and Groversville Flu. Need more intel on both, something is amiss. Your team consists of Goliath and Grace. Goliath: USAMRIID, knows hypergeometry, smart, efficient, in too deep soon. Grace: DEA, effective at disposal, egoistic, pedantic, at risk of exposure.   More information at GB, 34°43'28.5''N 113°48'00.8''W. From there, proceed to the scene with caution. Adam."
+    }
+]
